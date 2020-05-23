@@ -2,18 +2,14 @@ package _test;
 
 public class Test1 {
 	public static void main(String[] args) {
-		int c=11;
-		intb=88;
-		String name ="赵云";
-     
-		System.out.println(c);
-		System.out.println(b);
-		
+		int a = 1 ;
+		String name ="1";
+		String name1 ="2";
+		String name2="3";
 
-
-
-
-
-
+		System.out.println(a);
+		System.out.println(name);
+		System.out.println(name1);
+		System.out.println(name2);
 	}
 }
