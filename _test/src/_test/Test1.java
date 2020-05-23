@@ -7,7 +7,6 @@ public class Test1 {
 	String b="abc";
 	System.out.println(a);
 	System.out.println(b);
-	System.out.println(a+b);
 	
 
 
