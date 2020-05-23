@@ -6,8 +6,7 @@ public class Test1 {
 		int b =20;
 		int c =a+b;
 
-		String name ="赵云";
-
+		
 
 		System.out.println(a);
 		System.out.println(b);
