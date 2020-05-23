@@ -2,6 +2,7 @@ package _test;
 
 public class Test1 {
 	public static void main(String[] args) {
+
 		int a = 1 ;
 		String name ="1";
 		String name1 ="2";
@@ -11,5 +12,7 @@ public class Test1 {
 		System.out.println(name);
 		System.out.println(name1);
 		System.out.println(name2);
+
+
 	}
 }
