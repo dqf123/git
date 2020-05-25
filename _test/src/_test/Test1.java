@@ -6,14 +6,14 @@ public class Test1 {
 
 		int c =2 ;
 
-		int a = 1 ;
+		int b=3;
 
 
 
 
 		System.out.println(c);
 
-        System.out.println(a);
+        System.out.println(b);
 
 
 
