@@ -6,14 +6,22 @@ public class Test1 {
 
 		int c =2 ;
 
+
 		String  name ="赵云";
+
+		int b=3;
+
 
 
 
 
 		System.out.println(c);
 
+
         System.out.println(name);
+
+        System.out.println(b);
+
 
 
 
