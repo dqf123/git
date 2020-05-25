@@ -6,14 +6,14 @@ public class Test1 {
 
 		int c =2 ;
 
-		int a = 1 ;
+		String  name ="赵云";
 
 
 
 
 		System.out.println(c);
 
-        System.out.println(a);
+        System.out.println(name);
 
 
 
