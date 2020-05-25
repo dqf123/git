@@ -5,8 +5,8 @@ public class Test1 {
 
 		int a = 1 ;
 		int b = 2 ;
-		String name ="1";
-		String name1 ="2";
+		String name ="孙悟空";
+		String name1 ="猪八戒";
 		String name2="3";
 		String name3="赵云";
 
